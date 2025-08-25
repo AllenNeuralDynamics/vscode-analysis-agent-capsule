@@ -1,0 +1,15 @@
+{
+    "remote.autoForwardPortsSource": "hybrid",
+    "workbench.colorTheme": "Default Dark+",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "chat.mcp.discovery.enabled": true,
+    "git.enableSmartCommit": true,
+    "chat.mcp.autostart": "newAndOutdated",
+    "github.copilot.chat.agent.thinkingTool": true,
+    "remote.extensionKind": {
+        "ms-vscode.vscode-speech": [
+            "ui",
+            "workspace"
+        ]
+    }
+}

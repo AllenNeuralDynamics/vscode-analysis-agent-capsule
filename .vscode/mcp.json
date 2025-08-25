@@ -1,0 +1,16 @@
+{
+	"servers": {
+		"nwb-mcp-server": {
+			"command": "uvx",
+			"args": [
+				"nwb-mcp-server",
+				"--root_dir",
+				"/root/capsule/data",
+				"--glob_pattern",
+				"**/*.nwb"
+			],
+			"type": "stdio"
+		}
+	},
+	"inputs": []
+}

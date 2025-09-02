@@ -142,3 +142,4 @@ dmypy.json
 
 # VS Code
 /code/.vscode
+.vscode
